@@ -107,13 +107,31 @@ This assignment asks you to design a program and implement it in micro:bit JavaS
 
 ## Screensavers
 
-### SS 1
+### Screensaver One 
 
-_[Your description of screensaver 1]_
+My first screensaver on input button A is wrapped in a loop that is repeated four times. The leds get plotted top to bottom starting on the right. The brightness shifts down from top to bottom. then vise verse for the next line. As all led lines are plotted a shift of brightness runs back through the lines starting from bottom to top. This then repeats.
 
-### SS 2 
+### Screensaver Two
 
-_[And so on]_
+My Second screensaver on the gesture shake is wrapped in a loop that is repeated four times. The Leds get plotted from left to wright starting at zero to four. The brightness is decling from right to left on the first line. The second like also gets plotted but the brightness is vise versa. They line alternate the brightness shift until the end when the lines get unplotted in the verse order they were orginally plotted. This then repeats.
 
-## Demo URL
+### Screensaver Three
+
+My third screensaver on the tilt right gesture is wrapped in a loop that is repeated four times. The function then plots all leds on the screen. Then are then all un plotted in the order that the outter ones get unplotted first and the inner leds get unplotted last. This is then repeated.
+
+### Screensaver Four
+
+My fourth screensaver on the gesture screen down was wrapped in a loop that is repeated 5 times. different leds get plotted in a pattern reflecthing across y=2. The last led gets plotted when all leds are turned on. The pattern of leds that gets turned on is turned off and the last led isn't unplotted until the last of the pattern's leds are off. This is then repreated.
+
+### Screensaver Five
+
+My fifth screensaver is on the tilt left gesture and this is wrapped in a loop that is repeated four times. The leds are plotted in a zigzag motion from left to right to right to left on the x axis. Then select leds are left on as the zig zag motion goes through leaving the picture of an image. In this case it was an arrow. The screen is then cleared and repeated. 
+
+## Demo URLs
+
+#### I had to split my demo videos into two 40 second trims
+
+**PART ONE:**  [Micro:Bit Project Part One](https://i.imgur.com/O0cQVhd.mp4)
+
+**PART TWO:**  [Micro:Bit Project Part Two](https://i.imgur.com/pmxowpf.mp4)
 
